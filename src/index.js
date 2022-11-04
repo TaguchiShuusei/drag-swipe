@@ -76,6 +76,7 @@ function onMouseUp(e) {
 }
 
 
+
 /**
  * dragがはじまった時、ドラッグの方向を判定する
  * @param {*} mousePos 
