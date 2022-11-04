@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+  font-family: sans-serif;
+  background-color: royalblue;
+  margin-top: 100px;
+}
+
+#app {
+  position: relative;
+  background-color: silver;
+  height: 300px;
+  margin: 0;
+}
+
+#box {
+  position: absolute;
+  width: 100px;
+  height: 100px;
+  left: 100px;
+  top: 100px;
+  background-color: pink;
+}
